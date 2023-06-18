@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Srushti Sawant.
-- 👀 I’m interested in Front-end Development. 
+- 👀 I’m interested in Frontend Web Development. 
 - 🌱 I’m currently studying Machine learning.
 - 📫 You can reach to me via my email id: srushtiss15@gmail.com
 
