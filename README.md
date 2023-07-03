@@ -1,10 +1,10 @@
 <h1 align="center">Hello! 👋, I'm Srushti Sawant</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer!</h3>
-<h4 align="left">I'm currently pursuing Computer Engineering degree from RCOE, Mumbai.</h4>
+<p align="left">I'm currently pursuing Computer Engineering degree from RCOE, Mumbai.
+</p>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=srushtisawant15&label=Profile%20views&color=0e75b6&style=flat" alt="srushtisawant15" /> </p>
 
 - 🔭 I’m currently working on **my Internship projects**
 
@@ -28,3 +28,8 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=srushtisawant15&show_icons=true&locale=en&layout=compact" alt="srushtisawant15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srushtisawant15&" alt="srushtisawant15" /></p>
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=srushtisawant15&label=Profile%20views&color=0e75b6&style=flat" alt="srushtisawant15" /> </p>
+
+
