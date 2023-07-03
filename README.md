@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrushtiSawant15](https://github.com/SrushtiSawant15)
 
-- 📫 You can reach me : **srushtiss15@gmail.com**
+- 📫 You can reach me via : **srushtiss15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
