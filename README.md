@@ -1,5 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Srushti Sawant</h1>
 <h3 align="center">I'm passionate Frontend Web Developer!</h3>
+<h4 align="left">I'm currently pursuing Computer Engineering degree from RCOE, Mumbai.</h4>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
 
