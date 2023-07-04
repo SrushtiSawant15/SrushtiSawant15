@@ -1,4 +1,4 @@
-<h1 align="center">Hello! 👋, I'm Srushti Sawant</h1>
+<h1 align="center">Hello! 👋 I'm Srushti Sawant</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer!</h3>
 <p align="left">I'm currently pursuing my Final year Computer Engineering degree from RCOE, Mumbai.
 </p>
