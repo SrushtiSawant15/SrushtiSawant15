@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C++, Python, DSA**
 
-- 🤝 I’m looking to collaborate on **Web development**
+- 🤝 I’m looking to collaborate on **Web development** and **Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrushtiSawant15](https://github.com/SrushtiSawant15)
 
