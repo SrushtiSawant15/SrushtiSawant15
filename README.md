@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **my Internship projects**
 
-- 🌱 I’m currently learning **C++, Python, DSA**
+- 🌱 I’m currently learning **DBMS, Python, C++**
 
-- 🤝 I’m looking to collaborate on **Web development** and **Machine Learning**
+- 🤝 I’m looking to collaborate on **Web development** and **Machine Learning** projects!
 
 - 👨‍💻 All of my projects are available at [https://github.com/SrushtiSawant15](https://github.com/SrushtiSawant15)
 
