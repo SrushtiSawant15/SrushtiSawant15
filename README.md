@@ -12,7 +12,7 @@
 
 - 🤝 I’m looking to collaborate on **Web development** and **Machine Learning** projects!
 
-- 👨‍💻 All of my projects are available at [https://github.com/SrushtiSawant15](https://github.com/SrushtiSawant15)
+- 👨‍💻 All of my projects are available on [https://github.com/SrushtiSawant15](https://github.com/SrushtiSawant15)
 
 - 📫 You can reach me via : **srushtiss15@gmail.com**
 
