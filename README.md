@@ -1,6 +1,6 @@
 <h1 align="center">Hello! 👋 I'm Srushti Sawant!!</h1>
 <h3 align="center">I'm a passionate Frontend Web Developer, Data Analyst!</h3>
-<p align="left">I'm currently pursuing my Final year Computer Engineering degree from RCOE, Mumbai.
+<p align="left">I've completed Bachelors of Engineering in the domain Computer Engineering from RCOE, Mumbai.
 </p>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" >
