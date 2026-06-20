@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Full Stack Developer</h3>
 
 <p align="left">
-I hold a Bachelor's degree in Computer Engineering from Ramrao Adik Institute of Technology (RCOE), Mumbai.
+I hold a Bachelor's degree in Computer Engineering from Rizvi College of Engineering (RCOE), Mumbai.
 </p>
 
 <img align="right" alt="coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
