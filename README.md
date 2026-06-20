@@ -9,7 +9,7 @@ I hold a Bachelor's degree in Computer Engineering from Rizvi College of Enginee
 
 - 🔭 Currently working at **Tata Consultancy Services (TCS)**
 
-- 🌱 Currently working with and learning **Java, Spring Boot, Hibernate, JUnit, SQL, Maven, HTML, CSS, JavaScript, Postman, and Scrum Methodology**
+- 🌱 Currently working with and learning **Java, Spring Boot, JDBC, JUnit testing, SQL, Maven, HTML, CSS, JavaScript, Postman, and Scrum Methodology**
 
 - 🤝 Looking to collaborate on **Full Stack Development Projects**
 
